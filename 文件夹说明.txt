@@ -1,4 +1,4 @@
-d:安装包
+d:web安装包  已上传 
 y:原生APP域名配置、升级update.txt
 r:资源
 t:测试用
