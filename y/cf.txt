@@ -1,0 +1,25 @@
+{
+    "title": "移动url域名中心",
+    "list": [
+        {
+            "pid": "cfqp",
+            "url": "http://www.cfqp55.com/"
+        },
+        {
+            "pid": "cfqp",
+            "url": "http://www.cfqp66.com/"
+        },
+        {
+            "pid": "cfqp",
+            "url": "http://www.cfqp77.com/"
+        },
+        {
+            "pid": "cfqp",
+            "url": "http://www.cfqp88.com/"
+        },
+        {
+            "pid": "cfqp",
+            "url": "http://www.cfqp99.com/"
+        }
+    ]
+}
