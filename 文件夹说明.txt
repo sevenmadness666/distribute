@@ -3,3 +3,5 @@ y:原生APP域名配置、升级update.txt
 r:资源
 t:测试用
 n:原生App发布文件夹
+
+n:原生App发布文件夹
