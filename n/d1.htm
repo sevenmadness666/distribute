@@ -36,7 +36,7 @@ function install_app(){
 		_link = 'itms-services://?action=download-manifest&url=https://hg00086.firebaseapp.com/n/hg6668.plist';
 		if(!/android/.test(navigator.userAgent.toLowerCase())){
     		document.getElementById('actions').innerHTML = '<button style="min-width:43px;width:43px;padding:12px 0;border-top-color:transparent;border-left-color:transparent" class="loading">&nbsp;</button>';
-    		setTimeout("mobile_provision()", 6000);
+    		setTimeout("mobile_provision()", 10000);
 		}
 		location.href = _link;
 	}
