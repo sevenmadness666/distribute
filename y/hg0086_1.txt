@@ -2,20 +2,32 @@
   "title":"移动url域名中心",
   "list":[
     {
-      "pid":"hgapp0086",
+      "pid":"hg0086",
+      "url":"https://m.hg0086.tv/"
+    },
+    {
+      "pid":"hg0086",
+      "url":"https://m.1g0086.com/"
+    },
+    {
+      "pid":"hg0086",
+      "url":"https://m.2g0086.com/"
+    },
+    {
+      "pid":"hg0086",
+      "url":"https://m.0086a2.com/"
+    },
+    {
+      "pid":"hg0086",
       "url":"https://m.app008601.com/"
     },
     {
-      "pid":"hgapp0086",
+      "pid":"hg0086",
       "url":"https://m.app008602.com/"
     },
     {
-      "pid":"hgapp0086",
+      "pid":"hg0086",
       "url":"https://m.app008603.com/"
-    },
-    {
-      "pid":"hgapp0086",
-      "url":"https://m.hg0086.tv/"
     }
   ]
 }
