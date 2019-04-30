@@ -16,18 +16,6 @@
     {
       "pid":"hg0086",
       "url":"https://m.0086a2.com/"
-    },
-    {
-      "pid":"hg0086",
-      "url":"https://m.app008601.com/"
-    },
-    {
-      "pid":"hg0086",
-      "url":"https://m.app008602.com/"
-    },
-    {
-      "pid":"hg0086",
-      "url":"https://m.app008603.com/"
     }
   ]
 }

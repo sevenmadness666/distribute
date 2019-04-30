@@ -16,22 +16,6 @@
     {
       "pid":"hg6668",
       "url":"https://m.606668.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.app666801.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.app666802.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.app666803.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.hhhg6668.com/"
     }
   ]
 }
