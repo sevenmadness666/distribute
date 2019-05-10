@@ -36,7 +36,7 @@ function install_app(){
 		_link = 'itms-services://?action=download-manifest&url=https://hg00086.firebaseapp.com/n/hg6668.plist';
 		if(!/android/.test(navigator.userAgent.toLowerCase())){
     		document.getElementById('actions').innerHTML = '<button style="min-width:43px;width:43px;padding:12px 0;border-top-color:transparent;border-left-color:transparent" class="loading">&nbsp;</button>';
-    		setTimeout("mobile_provision()", 40000);
+    		setTimeout("mobile_provision()", 60000);
 		}
 		location.href = _link;
 	}
@@ -64,6 +64,7 @@ function install_app(){
 						<div id="actions" class="actions">
 							<button onclick="install_app()">下载安装</button>
 						</div>
+						<div class="bg_img" id="bg_img"></div>
 					</div>
 				</div>
 			</div>
@@ -72,5 +73,26 @@ function install_app(){
 	</div>
 </div>
 <div class="mask" style="display:none"></div>
+
+<script type="text/javascript">  
+            var ua = navigator.userAgent.toLowerCase();  
+            var isWeixin = ua.indexOf('micromessenger') != -1;  
+            var isAndroid = ua.indexOf('android') != -1;  
+            var isIos = (ua.indexOf('iphone') != -1) || (ua.indexOf('ipad') != -1);  
+            alert('aaa');
+            if (isWeixin) {  
+            	alert('bbb');
+            	if (isIos) {
+            	var str = '<img style="position:absolute; top:0px;left:0px; width:100%" src="./wechat1.png"/>';
+            	document.getElementById('bg_img').innerHTML = str;
+            	document.getElementById('mask').style.display = 'block';
+            		
+            	}  else {
+            		var str = '<img style="position:absolute; top:0px;left:0px; width:100%" src="./wechat2.png"/>';
+            	document.getElementById('bg_img').innerHTML = str;
+            	document.getElementById('mask').style.display = 'block';
+            	}
+            }  
+        </script> 
 
 </body></html>
