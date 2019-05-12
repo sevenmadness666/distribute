@@ -1,21 +1,21 @@
 {
-  "title":"移动url域名中心",
-  "list":[
-    {
-      "pid":"hg6668",
-      "url":"https://m.hg98987.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.4hg6668.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.5hg6668.com/"
-    },
-    {
-      "pid":"hg6668",
-      "url":"https://m.606668.com/"
-    }
-  ]
+    "title": "移动url域名中心",
+    "list": [
+        {
+            "pid": "hg6668",
+            "url": "https://m.606668.com/"
+        },
+        {
+            "pid": "hg6668",
+            "url": "https://m.hg98987.com/"
+        },
+        {
+            "pid": "hg6668",
+            "url": "https://m.app666801.com/"
+        },
+        {
+            "pid": "hg6668",
+            "url": "https://m.app666802.com/"
+        }
+    ]
 }
