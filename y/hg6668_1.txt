@@ -2,19 +2,19 @@
     "title": "移动url域名中心",
     "list": [
         {
-            "pid": "hg6668",
+            "pid": "1",
             "url": "https://m.606668.com/"
         },
         {
-            "pid": "hg6668",
+            "pid": "2",
             "url": "https://m.hg98987.com/"
         },
         {
-            "pid": "hg6668",
+            "pid": "3",
             "url": "https://m.app666801.com/"
         },
         {
-            "pid": "hg6668",
+            "pid": "4",
             "url": "https://m.app666802.com/"
         }
     ]
