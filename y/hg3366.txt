@@ -1,0 +1,17 @@
+{
+    "title": "移动url域名中心",
+    "list": [
+        {
+            "pid": "1",
+            "url": "https://hg3366aa.com/"
+        },
+        {
+            "pid": "2",
+            "url": "https://hg3366.com/"
+        },
+        {
+            "pid": "3",
+            "url": "https://hg3366cc.com/"
+        }
+    ]
+}

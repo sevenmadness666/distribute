@@ -1,0 +1,17 @@
+{
+    "title": "移动url域名中心",
+    "list": [
+        {
+            "pid": "1",
+            "url": "https://suna01.com/"
+        },
+        {
+            "pid": "2",
+            "url": "https://suna02.com/"
+        },
+        {
+            "pid": "3",
+            "url": "https://suna03.com/"
+        }
+    ]
+}
